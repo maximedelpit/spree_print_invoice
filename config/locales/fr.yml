@@ -1,6 +1,7 @@
 ---
 fr:
   spree:
+    date: DATEEE
     print_invoice:
       documents: Documents
       buttons:
